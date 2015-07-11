@@ -10,6 +10,7 @@ public class Utils {
 			return true;
 		} else {
 			return false;
+			// say hi和公司法规定
 		}
 	}
 }
