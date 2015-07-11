@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
             @Override  
             public void onClick(View v) {
             OpusTool opusTool = new OpusTool();
-System.out.println("opus test sjdsfjldkj "+opusTool.getNativeGetString());
+System.out.println("opus test 间的距离的 "+opusTool.getNativeGetString());
                 Thread thread = new Thread(new Runnable() {
                     public void run() {
                         mRecord.start();  
